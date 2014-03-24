@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSToys", "VSToys\VSToys.csproj", "{DC6501C8-2A2C-4AFC-8A05-E758D61235D1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VSToysSetup", "VSToysSetup\VSToysSetup.vdproj", "{EA4EE306-F3F6-486C-AC58-F5874A65682D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6501C8-2A2C-4AFC-8A05-E758D61235D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6501C8-2A2C-4AFC-8A05-E758D61235D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6501C8-2A2C-4AFC-8A05-E758D61235D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6501C8-2A2C-4AFC-8A05-E758D61235D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4EE306-F3F6-486C-AC58-F5874A65682D}.Debug|Any CPU.ActiveCfg = Debug
+		{EA4EE306-F3F6-486C-AC58-F5874A65682D}.Release|Any CPU.ActiveCfg = Release
+		{EA4EE306-F3F6-486C-AC58-F5874A65682D}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
